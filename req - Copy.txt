@@ -1,0 +1,3 @@
+scikit-learn-intelex
+modin
+shap
